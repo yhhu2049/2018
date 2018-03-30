@@ -10,3 +10,4 @@ def defa():
     b = 2
     c = a+b
     return c
+print('hello')
